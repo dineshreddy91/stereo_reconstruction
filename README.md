@@ -9,7 +9,8 @@ download the repository into a local folder
 
 In the current directory 
 
-cmake . \n
+cmake .
+
 make 
 
 running the code 
